@@ -1,0 +1,9 @@
+# 默认忽略的文件
+**/target/
+.idea
+*.iml
+*.class
+*Test.java
+**/test/
+/shelf/
+/workspace.xml
